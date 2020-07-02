@@ -1,6 +1,8 @@
 # AR-AugmentedReality-Moon
 This augmented reality iOS app will bring the moon into your home!
 
+This was my first AR app and was used to explore augmented reality, ARKIT and Swift.
+
 ## Demo:
 <img style="float:left" src="https://github.com/nareshribabu/AR-AugmentedReality-Moon/blob/master/moon.gif" alt="moon" width="250"/>
 
